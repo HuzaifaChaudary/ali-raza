@@ -1,7 +1,7 @@
 {
-  "name": "huzaifa-iftikhar-portfolio",
+  "name": "zain-raza-portfolio",
   "version": "1.0.0",
-  "description": "\"# Huzaifa-Iftikhar-Personal-Portfolio\"",
+  "description": "\"# zain-raza-portfolio\"",
   "main": "index.js",
   "scripts": {
     "start": "node assets/js/script.js"
