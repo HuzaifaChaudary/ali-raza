@@ -1,0 +1,11 @@
+{
+  "name": "huzaifa-iftikhar-portfolio",
+  "version": "1.0.0",
+  "description": "\"# Huzaifa-Iftikhar-Personal-Portfolio\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node assets/js/script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
