@@ -1,7 +1,7 @@
 {
-  "name": "zain-raza-portfolio",
+  "name": "Ali-raza-portfolio",
   "version": "1.0.0",
-  "description": "\"# zain-raza-portfolio\"",
+  "description": "\"# Ali-raza-portfolio\"",
   "main": "index.js",
   "scripts": {
     "start": "node assets/js/script.js"
